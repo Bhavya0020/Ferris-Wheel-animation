@@ -44,7 +44,7 @@
 }
 
 .cabin {
-    background-color: red;
+    background: linear-gradient(red, pink, cyan);
     width: 20%;
     height: 20%;
     position: absolute;
@@ -99,15 +99,15 @@
     }
 
     25% {
-        background-color: yellow;
+        background: linear-gradient(yellow, red, orange), ;
     }
 
     50% {
-        background-color: purple;
+        background: linear-gradient(purple, white, blue);
     }
 
     75% {
-        background-color: yellow;
+        background: linear-gradient(white, yellow, orange);
     }
 
     100% {
